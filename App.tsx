@@ -1,6 +1,6 @@
 import { Phone, Clock, MapPin, ArrowRight, ShieldCheck } from "lucide-react";
 import { Emblem } from "./Emblem";
-import { FlipDiskMatrix } from "@/components/ui/flip-disk-matrix";
+import { FlipDiskMatrix } from "./flip-disk-matrix";
 
 function IgIcon({ size = 15 }: { size?: number }) {
   return (
